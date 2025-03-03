@@ -18,7 +18,7 @@
 - IDE: <img src="/icons/idea.svg" height="16"> IntelliJ IDEA
 - 🛠️ Инструменты: **Gladle**, **JUnit 5**, 
   - UI: **Selenide**, **Selenoid**
-  - API: **Postman**, **RestAssured**
+  - API: **Postman**, **REST Assured**
 - 🌐 CI/CD: **Jenkins**
 - 📊 Мониторинг и отчеты: **Allure**
 - Система отслеживания ошибок: **Jira**
@@ -81,7 +81,7 @@
 
 [//]: # (- 💼 [LinkedIn]&#40;https://www.linkedin.com/in/yourusername/&#41;)
 - 📧 Email: nullnvrsk@gmail.com
-- <img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="16" height="16"/> Telegram: <a href="https://t.me/max_null">@max_null</a>
+- <img src="icons/telegram.svg" title="Telegram" alt="Telegram" width="16" height="16"/> Telegram: <a href="https://t.me/null_max">@null_max</a>
 
 [//]: # (- 🌐 [Портфолио]&#40;https://yourportfolio.com/&#41;)
 
